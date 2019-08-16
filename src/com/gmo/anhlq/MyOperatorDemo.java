@@ -1,6 +1,6 @@
-package com.gmo.anhlq.operators;
+package com.gmo.anhlq;
 
-public class MyDemo {
+public class MyOperatorDemo {
 	// Normal Assignment
 	static int speed = 80; // speed variable gets the value 80
 	static int distance = 20; // distance variable gets the value 20

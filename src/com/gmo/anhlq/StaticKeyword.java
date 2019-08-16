@@ -1,4 +1,4 @@
-package com.gmo.anhlq.keywords;
+package com.gmo.anhlq;
 
 public class StaticKeyword {
 	

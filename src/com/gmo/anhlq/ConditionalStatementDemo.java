@@ -1,4 +1,4 @@
-package com.gmo.anhlq.statements;
+package com.gmo.anhlq;
 
 public class ConditionalStatementDemo {
 

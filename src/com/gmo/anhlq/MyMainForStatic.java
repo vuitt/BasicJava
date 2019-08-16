@@ -1,6 +1,6 @@
-package com.gmo.anhlq.keywords;
+package com.gmo.anhlq;
 
-public class MyMain {
+public class MyMainForStatic {
 	public static void main(String[] args) {
 		StaticKeyword.isAccessible = false;
 	}

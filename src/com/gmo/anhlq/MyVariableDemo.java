@@ -1,6 +1,6 @@
-package com.gmo.anhlq.variables;
+package com.gmo.anhlq;
 
-public class MyDemo {
+public class MyVariableDemo {
 
 	public static void main(String[] args) {
 		// Use the boolean keyword to declare boolean variable
